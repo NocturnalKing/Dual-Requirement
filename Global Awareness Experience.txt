@@ -1,0 +1,311 @@
+ANTH 001: Introduction to Sociocultural Anthropology Units: 4
+ANTH 003: Introduction to Anthropological Archaeology Units: 4
+ANTH 005: Introduction to Biological Anthropology Units: 4
+ANTH 100: History of Anthropological Thought and Practice Units: 4
+ANTH 110: Migration, Diaspora and Transnational Belonging Units: 4
+ANTH 111: The Anthropology of Globalization Units: 4
+ANTH 112: Political Anthropology Units: 4
+ANTH 113: Urban Anthropology Units: 4
+ANTH 114: Social Memory Units: 4
+ANTH 115: Economic Anthropology Units: 4
+ANTH 116: Indigenous Activism in the Americas Units: 4
+ANTH 117: The Anthropology of Citizenship Units: 4
+ANTH 120: Introduction to Medical Anthropology Units: 4
+ANTH 121: Ethnomedicine Units: 4
+ANTH 122: Anthropological Perspectives on Religion and Healing Units: 4
+ANTH 124: Ethnopsychology Units: 4
+ANTH 126: Anthropological Approaches to Gender Units: 4
+ANTH 131: Space and Place: An Anthropological Perspective Units: 4
+ANTH 132: Archaeological Interpretation Units: 4
+ANTH 134: Dynamics of Small-scale Societies Units: 4
+ANTH 140: Cultural Heritage Policy and Practice Units: 4
+ANTH 141: Writing Narrative for Archaeology Units: 4
+ANTH 142: Archaeology of Colonialism Units: 4
+ANTH 144: Archaeology of Religion Units: 4
+ANTH 149: Topics in Anthropological Archaeology Units: 4
+ANTH 172: Ethnohistory Units: 4
+BIO 001: Contemporary Biology Units: 4
+BIO 034: Introduction to Marine Science Units: 4
+BIO 043: Biodiversity and Conservation Units: 4
+BIO 113: Sustainability in the Anthropocene Units: 4
+BIO 148: Fundamentals of Ecology Units: 4
+BIO 158: Herpetology Units: 4
+BIO 172: Sustainability of Agricultural Ecosystems Units: 4
+CHEM 194: Ethics and Communication in Chemistry Units: 1
+CHN 001: Elementary Chinese I Units: 4
+CHN 002: Elementary Chinese II Units: 4
+CHN 003: Intermediate Chinese I Units: 4
+CHN 004: Intermediate Chinese II Units: 4
+COGS 005: Introduction to Language and Linguistics Units: 4
+COGS 149: Music, Language, and Cognition Units: 4
+CRES 020: Introduction to Asian American Studies Units: 4
+CRES 027: Local Harvest, Global Industry: History of the Production and Consumption of Food Units: 4
+CRES 043: African Civilization Units: 4
+CRES 051: The History of Things: A History of the Contemporary World Units: 4
+CRES 059A: Cinema as Rebellion and Love Units: 4
+CRES 070: Music of the Caribbean World Units: 4
+CRES 076B: Movement for Dancers Units: 4
+CRES 100: Theories in Critical Race and Ethnic Studies Units: 4
+CRES 110: Interdisciplinary Methods in Critical Race and Ethnic Studies Units: 4
+CRES 121: Critical Refugee Studies Units: 4
+CRES 122: Comparative Immigrations Units: 4
+CRES 141: The African Diaspora in Latin America Units: 4
+CRES 144: Ancient Africa: Crossroads of the World Units: 4
+CRES 145: Black Consciousness and African Freedom Units: 4
+CRES 146: Christian Africa Units: 4
+CRES 147: Decolonizing Africa Units: 4
+CRES 150: Asians in the Americas Units: 4
+CRES 151: British Romanticism and India Units: 4
+CRES 152: Twentieth Century Latin American Revolutions Units: 4
+CRES 153: Mesoamerican Literature and Culture Units: 4
+CRES 159: History of Iran Units: 4
+CRES 160: History of Women and Gender in the Middle East Units: 4
+CRES 166B: Topics in Korean History and Cultures Units: 4
+CRES 167B: Topics in Japanese History and Cultures Units: 4
+CRS 010: Introduction to Community Engaged Research Units: 4
+CRS 195: Community Research and Service Experience Units:
+EC 001: Introduction to Environmental Communications Units: 4
+ECON 101: Intermediate Macroeconomic Theory Units: 4
+ECON 120: Economics of the Environment and Public Policy Units: 4
+ECON 121: The Economics of Money, Banking, and Financial Institutions Units: 4
+ECON 142: The Economics of Gender and Poverty Units: 4
+ECON 145: Health Economics Units: 4
+ECON 147: Introduction to Economic Growth Units: 4
+ECON 150: Economic Development Units: 4
+ECON 155: Political Economics Units: 4
+ECON 161: International Finance and Trade Units: 4
+ECON 164: Economics of Emerging Markets Units: 4
+ENG 001: Introduction to Environmental Communications Units: 4
+ENG 011: Introduction to World Literature in English Units: 4
+ENG 012: Introduction to Drama, Theatre, and Performance Units: 4
+ENG 018: Crime and Horror in Victorian Literature and Culture Units: 4
+ENG 022: Love and its Languages Units: 4
+ENG 034: Literatures of Asian America Units: 4
+ENG 056: Introduction to World Drama Units: 4
+ENG 067: Environmental Justice in Beast Fables Units: 4
+ENG 102: Literature of the Long Eighteenth Century, 1660-1830 Units: 4
+ENG 103: British and American Literature, 1830-1940 Units: 4
+ENG 104: Postwar, Postcolonial, Postmodern Literature and Culture: 1945 to the present Units: 4
+ENG 109: Encounters with Islam in Eighteenth- and Nineteenth-Century British Literature Units: 4
+ENG 110: British Romanticism and India Units: 4
+ENG 111: Mesoamerican Literature and Culture Units: 4
+ENG 112: South Asian Literature and Culture Around the World Units: 4
+ENG 113: Latinx Literature Units: 4
+ENG 122: Nature Writing and the Environment Units: 4
+ENG 130: Writing to Save the Planet Units: 4
+ENG 131: Form and Formality Units: 4
+ENG 151: Advanced Shakespeare Units: 4
+ENG 185: Reading from the Margin Units: 4
+ENGR 175: Information Systems for Management Units: 4
+ENGR 180: Spatial Analysis and Modeling Units: 4
+ENGR 190: Engineering Capstone Design Units: 4
+ENVE 164: Energy Policy Units: 4
+ENVE 190: Environmental Engineering Capstone Design Units: 3
+ESS 001: Introduction to Earth Systems Science Units: 4
+ESS 002: Sustainability Science Units: 4
+ESS 010: Earth Resources and Society Units: 4
+ESS 011: Climate Justice Units: 4
+ESS 015: Weather, Climate, and the Environment Units: 4
+ESS 034: Introduction to Marine Science Units: 4
+ESS 043: Biodiversity and Conservation Units: 4
+ESS 113: Sustainability in the Anthropocene Units: 4
+ESS 148: Fundamentals of Ecology Units: 4
+ESS 172: Sustainability of Agricultural Ecosystems Units: 4
+FRE 001: Elementary French I Units: 4
+FRE 002: Elementary French II Units: 4
+FRE 003: Intermediate French I Units: 4
+FRE 004: Intermediate French II Units: 4
+FRE 103: French Composition and Conversation Units: 4
+GASP 003: Introduction to Visual Culture Units: 4
+GASP 006: Global Art History Units: 4
+GASP 007: Music in Society Units: 4
+GASP 030A: Latin American Music Ensemble Units: 2
+GASP 030B: South Asian Music Ensemble Units: 2
+GASP 030C: Swing Band Units: 2
+GASP 030D: Nordic Music Ensemble Units: 2
+GASP 031A: Latin American Dance Ensemble Units: 2
+GASP 031B: South Asian Dance Ensemble Units: 2
+GASP 031C: Swing Dance Ensemble Units: 2
+GASP 031D: Nordic Dance Ensemble Units: 2
+GASP 055A: Arts of Asia Units: 4
+GASP 055B: Arts of the Islamic World Units: 4
+GASP 055C: History of European Art and Architecture Units: 4
+GASP 056: Contemporary Art Units: 4
+GASP 059A: Cinema as Rebellion and Love Units: 4
+GASP 060A: Anime and Animation Units: 4
+GASP 065A: Bollywood Units: 4
+GASP 070A: Music of the Pacific World Units: 4
+GASP 070B: Music of the Atlantic World Units: 4
+GASP 070C: Music of the Caribbean World Units: 4
+GASP 075A: Meaning in Music Units: 4
+GASP 075B: Love Songs Units: 4
+GASP 076B: Movement for Dancers Units: 4
+GASP 080A: Introduction to Drama, Theatre, and Performance Units: 4
+GASP 080B: Introduction to World Drama Units: 4
+GASP 103S: Advanced Shakespeare Units: 4
+GASP 103T: Music, Language, and Cognition Units: 4
+GASP 109: Image and Sound Units: 4
+GASP 130A: Advanced Latin Music Ensemble Units: 2
+GASP 130B: Advanced South Asian Music Ensemble Units: 2
+GASP 130C: Advanced Swing Band Units: 2
+GASP 130D: Advanced Nordic Music Ensemble Units: 2
+GASP 131A: Advanced Latin Dance Ensemble Units: 2
+GASP 131B: Advanced South Asian Dance Ensemble Units: 2
+GASP 131C: Advanced Swing Dance Ensemble Units: 2
+GASP 131D: Advanced Nordic Dance Ensemble Units: 2
+GASP 144A: Art for Social Change Units: 4
+GASP 156A: Visual Arts of the 20th Century Units: 4
+GASP 156B: South Asia After Europe: Visual Cultures of Colonialism & Post-colonialism Units: 4
+GASP 156D: History of Ancient Roman Art and Architecture Units: 4
+GASP 156E: History of Italian Renaissance Art and Architecture Units: 4
+GASP 158B: Women, Gender, and Art in Islamic Cultures Units: 4
+GASP 159: Topics in Visual Culture Units: 4
+GASP 160: Film Theory and Criticism Units: 4
+GASP 171: Museums as Contested Sites Units: 4
+GASP 172: Curatorial Methods and Practices Units: 4
+GASP 172B: Global Popular Music Units: 4
+GASP 173A: Theory and Method of Ethnomusicology Units: 4
+GASP 174A: Music, Gender, and Sexuality Units: 4
+GASP 190: Theories of Expressive Culture Units: 4
+GASP 191: Senior Thesis Units: 4
+GEOG 112: GIS for World Economic History Units: 4
+HIST 008: Topics in World History Units: 4
+HIST 010: Introduction to World History to 1500 Units: 4
+HIST 011: Introduction to World History Since 1500 Units: 4
+HIST 027: Local Harvest, Global Industry: History of the Production and Consumption of Food Units: 4
+HIST 030B: Early Modern Europe Units: 4
+HIST 043: African Civilization Units: 4
+HIST 051: The History of Things: A History of the Contemporary World Units: 4
+HIST 055: Arts of the Islamic World Units: 4
+HIST 055A: Arts of Asia Units: 4
+HIST 060: The Silk Road Units: 4
+HIST 070: History of the Middle East to 1500 Units: 4
+HIST 071: History of the Middle East since 1500 Units: 4
+HIST 100: The Historian’s Craft Units: 4
+HIST 108: Topics in World History Units: 4
+HIST 111: The Legacy of Genghis Khan Units: 4
+HIST 113: History of the Gunpowder Empires Units: 4
+HIST 115: Topics in African History Units: 4
+HIST 116: History of Decolonization in the Twentieth Century Units: 4
+HIST 138: Topics in Visual Culture Units: 4
+HIST 141: The African Diaspora in Latin America Units: 4
+HIST 142: Topics in Latin American History Units: 4
+HIST 142R: Topics in Latin American History: Research Units: 4
+HIST 143: West Africa and the Making of the Atlantic World Units: 4
+HIST 144: Ancient Africa: Crossroads of the World Units: 4
+HIST 145: Black Consciousness and African Freedom Units: 4
+HIST 146: Christian Africa Units: 4
+HIST 147: Decolonizing Africa Units: 4
+HIST 152: Twentieth Century Latin American Revolutions Units: 4
+HIST 156B: South Asia After Europe: Visual Cultures of Colonialism & Post-colonialism Units: 4
+HIST 158: Topics in Middle Eastern History Units: 4
+HIST 158R: Topics in Middle Eastern History: Research Units: 4
+HIST 159: History of Iran Units: 4
+HIST 160: History of Women and Gender in the Middle East Units: 4
+HIST 164: Urban East Asia Units: 4
+HIST 165A: China in the Ancient World Units: 4
+HIST 165B: From Tang to Song: China in the Medieval World Units: 4
+HIST 165C: Late Imperial China Units: 4
+HIST 165D: China in the Modern World Units: 4
+HIST 166A: History of Korea Units: 4
+HIST 166B: Topics in Korean History and Cultures Units: 4
+HIST 167A: History of Japan Units: 4
+HIST 167B: Topics in Japanese History and Cultures Units: 4
+HIST 169: History and Heritage of Tibet Units: 4
+HIST 170R: Law and Society in Early Modern England: Research Units: 4
+HIST 171: Modern European Intellectual History Units: 4
+HIST 172: Europe and the Early Modern Atlantic World Units: 4
+HIST 173: History of Ancient Roman Art and Architecture Units: 4
+HIST 174: History of Italian Renaissance Art and Architecture Units: 4
+HIST 179: Topics in European History Units: 4
+HIST 180: The Silk Road Units: 4
+HS 110: 3D Modeling Cultural Heritage Units: 4
+HS 112: GIS for World Economic History Units: 4
+HS 140: Cultural Heritage Policy and Practice Units: 4
+HS 160: Methods in Digital Heritage Units: 4
+HS 169: History and Heritage of Tibet Units: 4
+JPN 001: Elementary Japanese I Units: 4
+JPN 002: Elementary Japanese II Units: 4
+JPN 003: Intermediate Japanese I Units: 4
+JPN 004: Intermediate Japanese II Units: 4
+JPN 103: Advanced Japanese I Units: 4
+JPN 104: Advanced Japanese II Units: 4
+ME 170: Mechanical Engineering Capstone Design Units: 3
+MGMT 128: Global Markets and Investment Banking Units: 4
+MGMT 170: Information Systems for Management Units: 4
+MIST 011: Climate Justice Units: 4
+MIST 130: Statistical Data Analysis and Optimization in R for Decision Support Units: 4
+MIST 164: Energy Policy Units: 4
+MIST 175: Information Systems for Management Units: 4
+PH 001: Introduction to Public Health Units: 4
+PH 005: Global and International Public Health Units: 4
+PH 114: Migration and Health Units: 4
+PH 137: Insects and Public Health Units: 4
+PHIL 104: Ethical Theory Units: 4
+PHIL 108: Political Philosophy Units: 4
+PHIL 109: Philosophy of Law Units: 4
+PHIL 128: Human Rights Units: 4
+PHIL 131: Topics in Ancient Philosophy Units: 4
+PHIL 170: Philosophy, Politics and Economics Units: 4
+POLI 003: Introduction to Comparative Politics Units: 4
+POLI 005: Introduction to International Relations Units: 4
+POLI 006: Global Issues Units: 4
+POLI 131: Everyday Politics in Latin America Units: 4
+POLI 138: Politics of Poverty and Prosperity Units: 4
+POLI 140: Transitions to Democracy Units: 4
+POLI 142: Contemporary Chinese Politics Units: 4
+POLI 145: Political Violence Units: 4
+POLI 150: Causes of International Conflict Units: 4
+POLI 155: International Political Economy Units: 4
+POLI 158: Politics of Human Rights Units: 4
+POLI 165: International Organizations & Regimes Units: 4
+PSY 124: Health Disparities Units: 4
+PSY 127: Psychology and Film Units: 4
+PSY 145: Human Sexuality Units: 4
+PSY 152: Psychological Perspectives on Cultural, Racial and Ethnic Diversity Units: 4
+PSY 170: Industrial and Organizational Psychology Units: 4
+SOC 110: Social Movements, Protest and Collective Action Units: 4
+SOC 111: Environmental Sociology Units: 4
+SOC 136: Globalization Units: 4
+SOC 145: Sociology of Health Units: 4
+SOC 160: Gender and Society Units: 4
+SOC 180: Advanced Issues in Race and Ethnicity Units: 4
+SPAN 001: Elementary Spanish I Units: 4
+SPAN 002: Elementary Spanish II Units: 4
+SPAN 003: Intermediate Spanish I Units: 4
+SPAN 004: Intermediate Spanish II Units: 4
+SPAN 010: Spanish for Heritage Speakers I Units: 4
+SPAN 011: Spanish for Heritage Speakers II Units: 4
+SPAN 050: Introduction to Hispanic Literatures I Units: 4
+SPAN 051: Introduction to Hispanic Literatures II Units: 4
+SPAN 105: Hispanic Cultures I Units: 4
+SPAN 106: Hispanic Cultures II Units: 4
+SPAN 107: Spanish for Health Professionals Units: 4
+SPAN 108: Spanish for Business and Management Units: 4
+SPAN 111: Empire, The Postcolonial, and Representation: Reading East & West Units: 4
+SPAN 113: U.S. Latinx Literature Units: 4
+SPAN 114: Latinx in Children’s Literature and Film Units: 4
+SPAN 122: Spanish (Peninsular) 18-19 Centuries Units: 4
+SPAN 123: Spanish (Peninsular) 20-21 Centuries Units: 4
+SPAN 130: The Transatlantic Baroque Units: 4
+SPAN 131: Transatlantic Modernismo Units: 4
+SPAN 140: Latin American Colonial Literature Units: 4
+SPAN 143: Latin American Literature since Independence Units: 4
+SPAN 144: Caribbean Literatures and Cultures Units: 4
+SPAN 145: Novel of the Latin American Dictator Units: 4
+SPAN 146: Latin American Film and Fiction Units: 4
+SPAN 147: Latin American Boom Units: 4
+SPAN 148: The Narrative World of Mario Vargas Llosa Units: 4
+SPAN 150: Asians in the Americas Units: 4
+SPAN 151: Diasporas and Exiles in Latin America Units: 4
+SPAN 153: Bilingualism and Borders in Hispanic Literatures Units: 4
+SPAN 154: Hispanic Drama and Performing Units: 4
+SPAN 170: Spanish Linguistics Units: 4
+SPAN 172: History of the Spanish Language Units: 4
+SPAN 173: Erotic Novel and Film Units: 4
+SPAN 175: Spanish in the U.S. Units: 4
+SPAN 177: Sociolinguistics and Latino Health Units: 4
+SPAN 180: Topics in Hispanic Languages and Cultures Units: 4
+SPAN 190: Spanish Capstone Seminar Units: 4
+SPAN 195: Upper Division Undergraduate Research Units:
+WRI 141: Writing Narrative for Archaeology Units: 4

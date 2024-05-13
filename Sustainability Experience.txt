@@ -1,0 +1,83 @@
+ANTH 005: Introduction to Biological Anthropology Units: 4
+ANTH 144: Archaeology of Religion Units: 4
+ANTH 151: Human Adaptability Units: 4
+ANTH 160: Human Origins Units: 4
+BIO 001: Contemporary Biology Units: 4
+BIO 034: Introduction to Marine Science Units: 4
+BIO 043: Biodiversity and Conservation Units: 4
+BIO 113: Sustainability in the Anthropocene Units: 4
+BIO 129: Paleoecology Units: 3
+BIO 130: Plant Biology Units: 4
+BIO 148: Fundamentals of Ecology Units: 4
+BIO 158: Herpetology Units: 4
+BIO 159: Insect Ecology and Evolution Units: 4
+BIO 172: Sustainability of Agricultural Ecosystems Units: 4
+BIOE 108: Genetic Engineering Units: 3
+CCST 060: Introduction to Chicano/a Culture and Experiences Units: 4
+CE 100: Civil Engineering for Sustainable Systems Units: 4
+COGS 013: Scientific Thinking Units: 4
+COGS 122: Modeling Social Behavior Units: 4
+CRES 027: Local Harvest, Global Industry: History of the Production and Consumption of Food Units: 4
+CRES 051: The History of Things: A History of the Contemporary World Units: 4
+CSE 160: Computer Networks Units: 4
+EC 001: Introduction to Environmental Communications Units: 4
+ECON 120: Economics of the Environment and Public Policy Units: 4
+ECON 126: Economics of Innovation and Entrepreneurship Units: 4
+ECON 151: The Economics of Government and Business Units: 4
+ECON 156: Urban and Regional Economics Units: 4
+ECON 161: International Finance and Trade Units: 4
+ECON 164: Economics of Emerging Markets Units: 4
+ENG 001: Introduction to Environmental Communications Units: 4
+ENG 019: Animals and Literature Units: 4
+ENG 032: Introduction to Chicano/a Culture and Experiences Units: 4
+ENG 058: Literature of the Natural Environment Units: 4
+ENG 060: Science Fiction & Climate Disaster Units: 4
+ENG 067: Environmental Justice in Beast Fables Units: 4
+ENG 122: Nature Writing and the Environment Units: 4
+ENG 123: Literature and Animal Studies Units: 4
+ENG 125: Ecology and Indigenous Religious Traditions Units: 4
+ENG 130: Writing to Save the Planet Units: 4
+ENG 167: Theatre and Ecology Units: 4
+ENG 168: Shakespeare and Ecology Units: 4
+ENGR 180: Spatial Analysis and Modeling Units: 4
+ENGR 190: Engineering Capstone Design Units: 4
+ENGR 193: Engineering Capstone Design I Units: 2
+ENGR 194: Engineering Capstone Design II Units: 3
+ENVE 010: Environment in Crisis Units: 4
+ENVE 030: Evaluating Sustainable Spaces: Leadership in Energy, Environment & Design (LEED) Units: 3
+ENVE 140: Water Resources Planning and Management Units: 3
+ENVE 160: Sustainable Energy Units: 4
+ENVE 164: Energy Policy Units: 4
+ENVE 190: Environmental Engineering Capstone Design Units: 3
+ESS 002: Sustainability Science Units: 4
+ESS 010: Earth Resources and Society Units: 4
+ESS 011: Climate Justice Units: 4
+ESS 015: Weather, Climate, and the Environment Units: 4
+ESS 020: Fundamentals of Geology Units: 4
+ESS 034: Introduction to Marine Science Units: 4
+ESS 043: Biodiversity and Conservation Units: 4
+ESS 113: Sustainability in the Anthropocene Units: 4
+ESS 129: Paleoecology Units: 3
+ESS 130: Plant Biology Units: 4
+ESS 148: Fundamentals of Ecology Units: 4
+ESS 172: Sustainability of Agricultural Ecosystems Units: 4
+GASP 103Q: Theatre and Ecology Units: 4
+HIST 010: Introduction to World History to 1500 Units: 4
+HIST 027: Local Harvest, Global Industry: History of the Production and Consumption of Food Units: 4
+HIST 051: The History of Things: A History of the Contemporary World Units: 4
+HIST 164: Urban East Asia Units: 4
+HIST 180: The Silk Road Units: 4
+ME 170: Mechanical Engineering Capstone Design Units: 3
+MIST 011: Climate Justice Units: 4
+MIST 120: Parks and Protected Areas Units: 4
+MIST 132: Geographic Information Systems Analysis in Management Units: 4
+MIST 164: Energy Policy Units: 4
+MSE 112: Materials Selection and Performance Units: 4
+PH 110: Environmental Health Units: 4
+PH 137: Insects and Public Health Units: 4
+PHIL 106: Philosophy of Science Units: 4
+PHIL 122: Bioethics Units: 4
+PHIL 170: Philosophy, Politics and Economics Units: 4
+PHYS 001: Physics for Future Leaders Units: 4
+SOC 111: Environmental Sociology Units: 4
+SPAN 060: Introduction to Chicano/a Culture and Experiences Units: 4
